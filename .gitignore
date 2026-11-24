@@ -1,0 +1,14 @@
+node_modules/
+# dist/ 不忽略：GitHub Pages 由 Actions 从源码构建后发布，本地 dist 仅作产物参考
+dist/
+.npm-cache/
+.vite/
+*.local
+.DS_Store
+coverage/
+.pnpm-store/
+
+# Playwright
+test-results/
+playwright-report/
+blob-report/

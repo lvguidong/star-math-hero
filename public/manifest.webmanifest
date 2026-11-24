@@ -1,0 +1,16 @@
+{
+  "name": "星际数学小勇士 - 100以内加减法闯关",
+  "short_name": "数学小勇士",
+  "description": "算出答案，给飞船充能！小学二年级趣味数学闯关游戏",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1030",
+  "theme_color": "#0b1030",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
