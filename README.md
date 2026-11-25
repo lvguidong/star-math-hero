@@ -4,7 +4,7 @@
 
 ## 🌐 在线试玩
 
-**https://lvguidong.github.io/star-math-hero/** （电脑浏览器打开即可玩，支持离线）
+**https://lvyiyiyi.github.io/star-math-hero/** （电脑浏览器打开即可玩，支持离线）
 
 完整策划见 [游戏策划案](./星际数学小勇士_游戏策划案.md)，工程方案见 [开发计划书](./星际数学小勇士_开发计划书.md)。
 
